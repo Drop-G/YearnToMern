@@ -1,0 +1,20 @@
+{
+  "name": "yearntomern",
+  "version": "1.0.0",
+  "description": "Practice testing for API Routes and setting up an HTTP Server using node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drop-G/YearnToMern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drop-G/YearnToMern/issues"
+  },
+  "homepage": "https://github.com/Drop-G/YearnToMern#readme"
+}
