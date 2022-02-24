@@ -1,0 +1,4 @@
+{
+  "mongoDB_URI": "mongodb+srv://DropG:AtlasPro2030@cluster0.otx7r.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
+}
